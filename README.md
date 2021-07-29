@@ -4,6 +4,9 @@ This is a simple PHP/Database connection with a website interface which I progra
 You can donwload it if you select the green button named "Code" then "Download ZIP" or donwload the ZIP file over the releases tab. Extract the downloaded zip folder, move the "kaufwunder_online" folder to "<Your drive>:...\xampp\mysql\data" and move the other files to "<Your drive>:...\xampp\htdocs" (You can put the files in a folder first to move them easier.)
 
   
+Feel free to add a pull request or an issue. I might learn something from it because I am still learning.  
+  
+  
 **Every asset which is used here was made by mexikoedi.**
 
   
