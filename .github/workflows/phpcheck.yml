@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code into the workspace
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Check Code
-        uses: eeyon/php-codecheck-actions@v3
+        uses: eeyon/php-codecheck-actions@master
