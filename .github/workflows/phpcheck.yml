@@ -1,0 +1,11 @@
+name: php-check-code
+on: [push]
+jobs:
+  php-check-code:
+    name: runner / php-check-code
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code into the workspace
+        uses: actions/checkout@v4
+      - name: Check Code
+        uses: eeyon/php-codecheck-actions@v3
