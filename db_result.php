@@ -36,5 +36,8 @@
 				echo "<br><br> Connection closed!";
 			}
 		?>
+	<footer>
+		&copy; 2021-2022 mexikoedi. All rights reserved.
+	</footer>
 	</body>
 </html>
