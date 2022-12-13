@@ -10,7 +10,7 @@ jobs:
   Scan-Build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3.1.0
+    - uses: actions/checkout@v3.2.0
     
     - name: PHP Syntax Checker (Lint)
       uses: StephaneBour/actions-php-lint@8.1
