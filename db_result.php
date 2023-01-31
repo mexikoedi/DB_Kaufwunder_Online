@@ -37,7 +37,8 @@
 			}
 		?>
 	<footer>
-		&copy; 2021-2022 mexikoedi. All rights reserved.
+		&copy; 2021-<script>document.write(new Date().getFullYear())</script> mexikoedi<br><br>
+		All rights reserved.
 	</footer>
 	</body>
 </html>
