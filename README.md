@@ -12,6 +12,6 @@ Feel free to add a pull request or an issue. I might learn something from it bec
   
 **You need Xampp! Here: https://www.apachefriends.org/de/index.html**
 
-© 2021-2023 mexikoedi
+© 2021-2024 mexikoedi
 
 All rights reserved.
