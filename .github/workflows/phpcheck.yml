@@ -9,6 +9,11 @@ on:
 jobs:
   Scan-Build:
     runs-on: ubuntu-latest
+
+    # GitHub token permissions
+    permissions:
+      contents: read
+
     steps:
     - uses: actions/checkout@v6.0.0
     
