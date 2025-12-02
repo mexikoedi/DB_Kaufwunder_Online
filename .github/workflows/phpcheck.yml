@@ -15,7 +15,7 @@ jobs:
       contents: read
 
     steps:
-    - uses: actions/checkout@v6.0.0
+    - uses: actions/checkout@v6.0.1
     
     - name: PHP Syntax Checker (Lint)
       uses: StephaneBour/actions-php-lint@8.4
