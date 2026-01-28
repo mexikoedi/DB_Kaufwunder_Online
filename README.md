@@ -2,7 +2,7 @@
 
 ## What is this?
 This is a simple PHP/Database connection with a website interface which I programmed to learn a bit more about PHP and SQL. <br>
-Many things (or everything) is in German and this was only made to learn more about PHP and SQL.
+Many things are in German like the ERM and RM assets.
 
 ## How to install?
 **You need [Xampp](https://www.apachefriends.org/de/index.html) to use it!** <br>
